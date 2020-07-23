@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring and AWS**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, and CSS**
 
 - 📫 How to reach me **contato@antonialucianapires.com**
 
