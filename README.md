@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Antonia Luciana Pires</h1>
-<h3 align="center">A passionate developer from Brazil </h3>
+<h1 align="center">Olá 👋, sou Antonia Luciana Pires</h1>
+<h3 align="center">Desenvolvedora | @1997 | CE & RJ | Brasil</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/antonialucianapires" target="blank">
