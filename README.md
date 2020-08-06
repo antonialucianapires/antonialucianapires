@@ -9,15 +9,17 @@
 </p>
 
 
-- 🔭 I’m currently working on [Itaú Unibanco](https://www.itau.com.br/) and [Recode Pro](https://www.recodepro.org.br/)
+- 🔭 Atualmente trabalho como desenvolvedora no [Itaú Unibanco](https://www.itau.com.br/) e contribuo, de forma voluntária, com materiais didáticos de tecnologia no programa [Recode Pro](https://www.recodepro.org.br/).
 
-- 👨‍💻 All of my projects are available [here](https://github.com/antonialucianapires/)
+- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://github.com/antonialucianapires/).
 
-- 🌱 I’m currently learning **Java, Spring and AWS**
+- 🌱 Os meus estudos atuais estão concentrados em desenvolvimento back-end com **Java, Spring and AWS**
 
-- 💬 Ask me about **JavaScript, HTML, and CSS**
+- 💬 Tenho conhecimentos intermediários nas tecnologias **JavaScript, HTML, e CSS**
 
-- 📫 How to reach me **contato@antonialucianapires.com**
+- 👯 Gosto de linux, música e ajudar pessoas com os meus conhecimentos.
+
+- 📫 Fale comigo no endereço **contato@antonialucianapires.com**
 
 <img src="https://github-readme-stats.vercel.app/api?username=antonialucianapires&show_icons=true" alt="antonialucianapires" /> </p>
 
