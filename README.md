@@ -13,7 +13,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://github.com/antonialucianapires/).
 
-- 🌱 Os meus estudos atuais estão concentrados em desenvolvimento back-end com **Java, Spring and AWS**
+- 🌱 Os meus estudos atuais estão concentrados em desenvolvimento back-end com **Java, Spring, Nuvem AWS e Docker**
 
 - 💬 Tenho conhecimentos intermediários nas tecnologias **JavaScript, HTML, e CSS**
 
