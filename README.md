@@ -4,9 +4,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/antonialucianapires" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antonialucianapires" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/antonialucianapires" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="antonialucianapires" height="20" width="20" /></a>
-<a href="https://instagram.com/antonialucianapires" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="antonialucianapires" height="20" width="20" /></a>
-</p>
+
+
 
 
 - 🔭 Atualmente trabalho como desenvolvedora no [Itaú Unibanco](https://www.itau.com.br/) e contribuo, de forma voluntária, com materiais didáticos de tecnologia no programa [Recode Pro](https://www.recodepro.org.br/).
