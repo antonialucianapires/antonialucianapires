@@ -18,7 +18,7 @@
 
 - 👯 Gosto de linux, música e ajudar pessoas com os meus conhecimentos.
 
-- 📫 Fale comigo no endereço **contato@antonialucianapires.com**
+- 📫 Fale comigo através do [Linkedin](https://linkedin.com/in/antonialucianapires)
 
 <img src="https://github-readme-stats.vercel.app/api?username=antonialucianapires&show_icons=true" alt="antonialucianapires" /> </p>
 
