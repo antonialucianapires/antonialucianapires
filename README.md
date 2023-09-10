@@ -12,5 +12,12 @@
 
 🔗 **Contato:** Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/antonialucianapires/).
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=antonialucianapires&show_icons=true&theme=light&hide_title=false&hide=prs,issues&layout=default&include_all_commits=true&langs_count=10&locale=pt-br" alt="Estatísticas do GitHub de antonialucianapires" width="100%" height="200px" />
+### 📈 Visão Geral do GitHub
+
+<div>
+  <a href="https://github.com/antonialucianapires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonialucianapires&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+ 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antonialucianapires&theme=light"/>
+  </a>
+</div>
