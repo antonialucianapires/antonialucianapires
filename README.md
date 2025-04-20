@@ -2,13 +2,13 @@
 <h3 align="center">Desenvolvedora | @1997 | RJ | Brasil</h3>
 <br>
 
-🚀 **Profissão:** Engenheira de Software Backend no [@Mercado Livre](https://www.linkedin.com/company/mercadolivre-com/mycompany/).
+🚀 **Profissão:** Engenheira de Software Backend
 
 📚 **Contribuição:** Voluntariamente, auxilio na criação de materiais didáticos de tecnologia para o programa [@RecodePro](https://recodepro.org.br/).
 
 🔗 **Portfólio:** [@antonialucianapires](https://antonialucianapires.netlify.app/).
 
-🎯 **Foco Atual:** Java, NodeJS, Spring, Computação em Nuvem e Docker.
+🎯 **Foco Atual:** Java, Python, Spring, Computação em Nuvem e Docker.
 
 🔗 **Contato:** Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/antonialucianapires/).
 
